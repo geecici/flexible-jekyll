@@ -1,11 +1,11 @@
-title: Hello, world! I'm geecici
+title: "Hello, world! I'm geecici"
 description: "This is my blog."
 permalink: ':title/'
-baseurl: "/"
+#baseurl: "/"
 url: "https://geecici.github.io"
 
 # Author Settings
-author:geecici
+author: geecici
 author-img: geecici.png
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning.
 twitter: # add your Twitter handle
@@ -15,7 +15,7 @@ linkedin: # add your Linkedin handle
 email: zhangjanny@foxmail.com
 
 # Disqus
-discus-identifier:  # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
